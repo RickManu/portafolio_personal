@@ -16,7 +16,7 @@ const Projects = () => {
     {
       title: "Página Web Institucional",
       description: "Diseño y desarrollo de una landing page responsiva para una empresa ficticia, enfocada en la experiencia de usuario (UX) y diseño limpio.",
-      image: "/pagina-web.jpg",
+      image: "/paginaweb.jpg",
       technologies: ["HTML5", "CSS3", "JavaScript"],
       githubLink: "https://github.com",
       hasDemo: true,
