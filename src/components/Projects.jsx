@@ -6,12 +6,12 @@ const Projects = () => {
   const projects = [
     {
       title: "Simulado de Préstamos",
-      description: "Simulador financiero desarrollado en **Java Swing** que permite calcular tablas de amortización con cuota nivelada.",
+      description: "Simulador financiero desarrollado en Java Swing que permite calcular tablas de amortización con cuota nivelada.",
       // NOTA: Reemplaza estas URLs por capturas de pantalla reales de tus proyectos
       image: "/calculadora.png",
       technologies: ["Java", "NetBeans IDE 22", "Git & GitHub"],
       githubLink: "https://github.com/RickManu/Simulador-Prestamos-Java.git", // Enlace a tu repo
-      hasDemo: true // Cambia a true si tienes un enlace funcional (deploy)
+      hasDemo: false // Cambia a true si tienes un enlace funcional (deploy)
     },
     {
       title: "Página Web Institucional",
@@ -19,7 +19,7 @@ const Projects = () => {
       image: "/paginaweb.png",
       technologies: ["HTML5", "CSS3", "JavaScript"],
       githubLink: "https://github.com",
-      hasDemo: true,
+      hasDemo: false,
       demoLink: "https://netlify.com" // Ejemplo
     },
     {
